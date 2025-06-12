@@ -75,7 +75,7 @@ Test results and reports will be available in `target/site/serenity/index.html`.
 Feature files are written in Gherkin syntax. Example (`review.feature`):
 
 ```gherkin
-Feature: Search and review 10 apps on Apple App Store
+Feature: Search and review apps on Apple App Store
 
    Background:
       Given I am logged into the Apple App Store
