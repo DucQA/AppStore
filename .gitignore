@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_store
+~$TestData.xlsx
+
+# Ignore target folder
+target
+.idea
+.allure
+allure-results
