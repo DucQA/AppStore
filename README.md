@@ -44,7 +44,7 @@ Click the image below to watch a demo of the project in action:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/dviet9968/AppStore.git
+   git clone https://github.com/DucQA/AppStore
    cd <path-to-cloned-repo>
    ```
 
