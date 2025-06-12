@@ -4,7 +4,7 @@ This project automates the process of searching and reviewing apps on the Apple 
 
 Click the image below to watch a demo of the project in action:
 
-[![Watch the demo](assets/output.gif)](https://www.youtube.com/watch?v=UoQZukVsrRk)
+[![Watch the demo](assets/demo.gif)](https://www.youtube.com/watch?v=UoQZukVsrRk)
 
 ## Features
 
